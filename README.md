@@ -14,3 +14,5 @@ The SmolVLM Perception Dashboard is a specialized tool that identifies emotional
 - Dynamic UI: A Gradio-powered interface that renders results in a "Viewport vs. Insight" side-by-side layout.
 
 - Automated Reporting: Generates and exports a flattened CSV report containing sentiment, confidence scores, and visual cues.
+
+![Dashboard Preview](vl_demo.png)
