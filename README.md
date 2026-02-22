@@ -6,7 +6,7 @@ A high-performance, batch-processing dashboard designed for visual sentiment ana
 ## 📌 Overview
 The SmolVLM Perception Dashboard is a specialized tool that identifies emotional states and visual triggers within images. It is built to handle modern web formats (AVIF/WebP) and provides real-time benchmarking for inference latency and VRAM usage.
 
-## ✨ Key Features
+## Key Features
 - Batch Processing: Upload multiple images simultaneously for sequential analysis.
 
 - Structured Intelligence: Enforces a strict JSON schema for 100% compatibility with downstream data workflows.
