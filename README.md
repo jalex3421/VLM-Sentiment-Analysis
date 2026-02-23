@@ -1,5 +1,7 @@
 # VLM-Sentiment-Analysis
 
+Author: Alejandro Meza Tudela
+
 ## 🚀 SmolVLM Perception Dashboard
 A high-performance, batch-processing dashboard designed for visual sentiment analysis and metadata extraction. This project leverages the SmolVLM-Instruct backbone to transform raw imagery into structured, actionable JSON data.
 
